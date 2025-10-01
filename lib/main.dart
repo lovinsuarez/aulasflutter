@@ -16,7 +16,7 @@ class _MyAppState extends State<MyApp> {
         backgroundColor: Colors.blue,
         appBar: AppBar(
           backgroundColor: Colors.white,
-          title: const Text('Lovin é o melhor!'),
+          title: const Text('Lovin é o caralho!'),
         ),
       ),
     );

@@ -35,3 +35,4 @@ Configurações importantes adicionadas em `.vscode/settings.json`:
 
 Se preferir que o Hot Reload só ocorra quando houver mudanças (arquivo 'dirty'), altere `dart.flutterHotReloadOnSave` para `allIfDirty`.
 
+JDK 17 or higher is required. Please set a valid Java home path to 'java.jdt.ls.java.home' setting or JAVA_HOME environment variable. Or ensure a valid Java executable is in your PATH.
