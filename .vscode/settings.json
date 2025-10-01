@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "Dart-Code.dart-code",
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  },
+  // Ao salvar, tenta aplicar Hot Reload automaticamente (extensão Dart/Flutter)
+  // Valores válidos: "never", "manual", "manualIfDirty", "all", "allIfDirty".
+  "dart.flutterHotReloadOnSave": "all",
+  // Habilitar Auto Save (salva automaticamente após delay)
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000
+}
